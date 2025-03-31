@@ -1,2 +1,2 @@
-# NNPTUD_S2
-# Vào nhánh mỗi ngày để lấy code
+# 2180608144 
+# Ngô Quốc Trọng
